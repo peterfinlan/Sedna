@@ -2,9 +2,11 @@
 
 "Sedna" is a one page website template made by [Peter Finlan](http://peterfinlan.com/) exclusively for Codrops.
 
-[Download on Codrops](http://tympanus.net/codrops/?p=24660)
+Examples of websites without the transparent header:
+* [IF-Charts](https://if-charts.000webhostapp.com/)
+* [Virtual airline website](https://britishairways.000webhostapp.com/)
 
-[Demo](http://tympanus.net/Freebies/Sedna/)
+Please note that this is not **my work**. I have simply stopped the header from being transparent whilst being at the top of the page.
 
 ## License
 
