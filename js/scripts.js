@@ -49,7 +49,7 @@ $(document).ready(function() {
 
 	/***************** Header BG Scroll ******************/
 
-	$(function() {
+/*	$(function() {
 		$(window).scroll(function() {
 			var scroll = $(window).scrollTop();
 
@@ -79,6 +79,7 @@ $(document).ready(function() {
 				});
 			}
 		});
+		*/
 	});
 	/***************** Smooth Scrolling ******************/
 
